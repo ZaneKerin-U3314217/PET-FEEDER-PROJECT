@@ -96,6 +96,20 @@ Your task is to design and simulate the logic and behavior of this system using 
 
 ---
 
+## Software Used
+
+- Microsoft Word  
+  Used for writing and formatting project reports.
+
+- Diagrams.net  
+  Used to design and produce all system flowcharts and diagrams.
+
+- Microsoft Copilot  
+  Assisted in drafting this README and provided guidance on GitHub formatting best practices. Recommended the use of [Word2md.com](https://word2md.com/) for converting .docx files to .MD files.
+
+- [Word2md.com](https://word2md.com/)  
+  Employed to convert `.docx` files into Markdown-compatible text.
+
 ## Contributing
 
 Contributions, feedback, and questions are welcome. Please:
