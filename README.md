@@ -65,9 +65,9 @@ Your task is to design and simulate the logic and behavior of this system using 
 ```text
 /
 ├─ Step1_Analysis/
-│   └─ Step1_Report.md
+│   └─ Analysis.md
 ├─ Step2_Organize_and_Describe_the_Data/
-│   └─ Step2_Report.docs
+│   └─ Organized_Data.md
 ├─ Step3_Flowchart/
 │   └─ PF_Diagram_PNG.png
 │   └─ PF_Diagram_RAW.drawio
@@ -75,10 +75,10 @@ Your task is to design and simulate the logic and behavior of this system using 
 |      └─ PF_Revised_Diagram_PNG.png
 |      └─ PF_Revised_Diagram_RAW.drawio
 ├─ Step4_Implement_the_Solution/
-│   └─ Step4_Report.md
+│   └─ Word_Code_Version1.md
 ├─ Step5_Evaluate_and_Refine_the_Solution/
-│   └─ Step5_Report.docx
-|   └─ Revised_Wordcode.docx
+│   └─ Testcases_and_Evaluation.md
+|   └─ Revised_Wordcode.md
 |   └─ Flowchart_Revision/
 |      └─ PF_Revised_Diagram_PNG.png
 |      └─ PF_Revised_Diagram_RAW.drawio
