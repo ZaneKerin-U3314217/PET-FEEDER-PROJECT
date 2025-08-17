@@ -2,10 +2,10 @@
 
 #### System Parameters
 
-| **Parameter** | **Type** | **Example Value** | **Notes** |
-| --- | --- | --- | --- |
-| Current Time | Variable | 15:42 |     |
-| Currently Stored Food | Variable | 08:00, 18:30 |     |
+| **Parameter** | **Type** | **Example Value** |
+| --- | --- | --- |
+| Current Time | Variable | 15:42 |
+| Currently Stored Food | Variable | 08:00, 18:30 |
 
 | **Variable Name** | **Description** | **Type** | **Units** | **Notes** |
 | --- | --- | --- | --- | --- |
