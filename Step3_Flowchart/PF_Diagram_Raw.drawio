@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.1.0">
+  <diagram name="Page-1" id="8628ldhe6SfxnfC7pJBH">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Po8gSsACdID-g7uziMJd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-2" target="EK3qeCb1ON0sEo4vceLr-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=25;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="253" y="11" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-18" target="EK3qeCb1ON0sEo4vceLr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-18" value="Check time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="253" y="549" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#33FF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313" y="829" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FF0000);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="726.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-25" value="Is it a feeding time?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="238" y="664" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=light-dark(#000000,#66FF66);strokeColor=light-dark(#000000,#33FF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-30" target="EK3qeCb1ON0sEo4vceLr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FF0000);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-30" target="EK3qeCb1ON0sEo4vceLr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-30" value="Is there more&amp;nbsp;&lt;br&gt;food in the tray than the leftovers buffer?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="238" y="359" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-31" target="EK3qeCb1ON0sEo4vceLr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-31" value="Check amount of food left in Feeding Tray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="253" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FF0000);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-37" target="EK3qeCb1ON0sEo4vceLr-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#33FF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318" y="509" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="503" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-37" value="Was the last feeding session less than 20 minutes ago?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="428" y="359" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="1349" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="678" y="1349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-45" value="Send Alert &quot;food not consumed&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="628" y="391.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="EK3qeCb1ON0sEo4vceLr-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EK3qeCb1ON0sEo4vceLr-49" value="Wait 1 Minute" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="98" y="129" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="Po8gSsACdID-g7uziMJd-2" target="Po8gSsACdID-g7uziMJd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-2" value="Check stored food amount" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="253" y="829" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="Po8gSsACdID-g7uziMJd-6" target="Po8gSsACdID-g7uziMJd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#33FF33);" edge="1" parent="1" source="Po8gSsACdID-g7uziMJd-6" target="Po8gSsACdID-g7uziMJd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-6" value="&lt;div&gt;Is enough food&lt;/div&gt;&lt;div&gt;stored to fill up the tray&lt;/div&gt;&lt;div&gt;to the feeding&amp;nbsp;&lt;/div&gt;&lt;div&gt;amount?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="238" y="931" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="Po8gSsACdID-g7uziMJd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318" y="1349" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="503" y="1349" />
+              <mxPoint x="318" y="1349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-12" value="Send Alert &quot;not enough food&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="443" y="964" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Po8gSsACdID-g7uziMJd-40" target="EK3qeCb1ON0sEo4vceLr-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="699" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="Po8gSsACdID-g7uziMJd-14" target="Po8gSsACdID-g7uziMJd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-14" value="Begin dispensing food with servo motor. Stop once tray weight = feeding amount" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1099" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-22" value="&lt;b&gt;Stop&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=25;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1389" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-26" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="473" y="484" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-27" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="283" y="484" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-28" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 255, 102));&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="788" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-33" value="&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;NO&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="373" y="405.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-35" value="&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;NO&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="568" y="406" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-36" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 255, 102));&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-39" value="&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;NO&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="173" y="712" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#33FF33);" edge="1" parent="1" source="Po8gSsACdID-g7uziMJd-40" target="Po8gSsACdID-g7uziMJd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-40" value="Is the work day over?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="238" y="1194" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-44" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 255, 102));&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1319" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po8gSsACdID-g7uziMJd-48" value="&lt;div&gt;&lt;b&gt;LEGEND&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Ovals &lt;/b&gt;= Start/Stop Program (Start occurs on powering up of machine, stop will halt the process until Started again.)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 51, 255));&quot;&gt;Rectangles &lt;/span&gt;&lt;/b&gt;= Process (e.g &quot;Check time&quot;)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Diamond &lt;/span&gt;&lt;/b&gt;= Decision (e.g &quot;Is it a feeding time?&quot;)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Arrows show logic flow of the program, with different colors denoting options based on decisions.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 51));&quot;&gt;Yellow Arrows&lt;/span&gt; = Unconditional Process / No Decision needed to continue&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Red Arrows&lt;/span&gt; = If Decision was NO&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;Green Arrows&lt;/span&gt; = If Decision was YES&lt;br&gt;&lt;br&gt;If an arrow points to another arrow, follow along the new arrow to it&#39;s destination.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="97" y="1499" width="430" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
