@@ -138,4 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 - Uploaded assignment work to it's relevant folders. 
 
 17/08/2024 (5:23 PM):
-- Revised readme and folder structure after consulting with Microsoft CoPilot, generally reorganized file structure. Readme is now pro
+- Revised readme and folder structure after consulting with Microsoft CoPilot, generally reorganized file structure. 
+
+17/08/2024 (7:14 PM):
+- Final version of repository, removed unnecessary .docx files and replaced them with .mds which allow for direct reading of file contents rather than downloading individual files. Implemented a LICENSE file as per Copilot's suggestions. Submitted assignments.
