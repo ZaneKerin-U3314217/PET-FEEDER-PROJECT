@@ -65,7 +65,7 @@ The main issue with the first draft of the system is that the check to verify if
    - If `Current_Time` is after `WORK_END_TIME`, **STOP SYSTEM**.  
    - Otherwise, wait 1 minute and return to step 2.
 
-(Altered sections are primarily step 1/i, step 3/i and step 6/i.)
+(Altered sections are primarily step 1/i, step 3/i and step 6/i. This word code can be independently viewed in Step5_Evaluate_and_Refine_the_Solution/Revised_Wordcode)
 
 By moving the ‘end of day’ check over to just before the system loops, the system will verify whether it’s end of day properly. In the event that the tray is full and the workday is over, an alert will be sent, however this is preferable as it would indicate issues that staff would need to address regardless.
 An accompanying altered diagrams for this system has also been included in Step5_Evalute_and_Refine_the_Solution/Flowchart_Revision/
